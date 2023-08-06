@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# Movie Search Box
+
+https://movie-search-box.netlify.app/
+
+HTML CSS Javascript React
+
+Backend API: https://www.omdbapi.com
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
